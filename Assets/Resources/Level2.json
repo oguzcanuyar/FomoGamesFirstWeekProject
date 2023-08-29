@@ -1,0 +1,144 @@
+{
+  "width": 4,
+  "height": 3,
+  "time": 40,
+  "blocks": [
+
+    {
+      "x": 0,
+      "y": 0,
+      "type": 3
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "type": 1
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "type": 4
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "type": 1
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "type": 4
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "type": 6
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "type": 1
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "type": 3
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "type": 1
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "type": 2
+    }
+  ],
+  "exits": [
+    {
+      "x": 0,
+      "y": 2,
+      "direction": 0,
+      "type": 1
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "direction": 0,
+      "type": 2
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "direction": 0,
+      "type": 3
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "direction": 0,
+      "type": 4
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "direction": 1,
+      "type": 1
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "direction": 1,
+      "type": 2
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "direction": 1,
+      "type": 3
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "direction": 2,
+      "type": 1
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "direction": 2,
+      "type": 2
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "direction": 2,
+      "type": 3
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "direction": 2,
+      "type": 4
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "direction": 3,
+      "type": 3
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "direction": 3,
+      "type": 2
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "direction": 3,
+      "type": 1
+    }
+  ]
+}
